@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "JOSEPH KITHEKA",
+    "occupation": "CEO of flutterhub1.21.1",
+    "description": "LOVE DOING THINHS THAT BLOW MY MIND:<?REACT><?NEXTJS>",
+    "image": "me.jpg",
+    "bio": "Hi there! I am Joseph Kitheka! I am a Self-taught developer with robust problem-solving skills and proven experience As a  Self-taught developer in creating and designing software in a test-driven environment. I started my  journey when i was 17 years, coding has always beign one my best friend in my life.LOVING DOING WHAT MAKE'S ME BE ME  ",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "flutterhub1.21.0@gmail.com",
+    "phone": "+254 9516 4401",
+    "address": {
+      "street": "Nyali,Leisure",
+      "city": "Mombasa",
+      "state": "Kenya",
+      "zip": "80100"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1kkaTYQYr0U03_e33O7_IE6HRmFyu8T4A/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/jose.josek.5872",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/flutter-hub-4827a01a7/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.linkedin.com/in/flutter-hub-4827a01a7/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/fhub-1",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "MY UNIVERSITY HAS ALWAY BE YOUTUBE AND SKILLSHARE",
+        "degree": "CERTIFICATE, Computer Science",
+        "graduated": "July 2020",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Flutterhub1.21.1",
+        "title": "Founder and CEO",
+        "years": "May 2020 - Present",
+        "description": "SHARING PLATFORM THAT FOCUS ON HELPING DEVELOPER'S "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "NextJs",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "NodeJS",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19-RACKER ",
+        "category": "",
+        "image": "pro.png",
+        "url": "https://flutter-hub-covid.netlify.app/"
+      },
+      {
+        "title": "MY PORTFOLIO (REACTJS AND TAILWINDCSS",
+        "category": "",
+        "image": "PRO.png",
+        "url": "https://josephkitheka.netlify.app/#about"
+      },
+      {
+        "title": "YOURHANDE NOTE (React JS & REACT HOOKS)",
+        "category": "",
+        "image": "1.png",
+        "url": "https://yourhand.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He is a good developer with so much skills to solve sameone problems",
+        "user": "Joseph Kitheka"
+      },
+      {
+        "text": "Learning with Joseph has been AWESOME, he makes React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Maluki Joseph"
+      }
+    ]
+  }
+}
